@@ -1,0 +1,2 @@
+Delete the last empty line in the csv file
+otherwise it reads as float 0 which could not + with string and throws error
